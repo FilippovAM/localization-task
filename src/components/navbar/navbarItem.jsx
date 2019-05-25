@@ -14,9 +14,9 @@ export const NavbarItem = (props) => {
                     {props.children}
                 </Link>
             ) : (
-                <a className="navbar__link">
+                <span className="navbar__link">
                     {props.children}
-                </a>
+                </span>
             )}
         </li>
     );
