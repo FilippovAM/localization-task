@@ -1,0 +1,8 @@
+.navbar__item_language-select {
+    margin-left: auto;
+}
+
+.navbar__item_language-select .navbar__link {
+    padding-top: 0;
+    padding-bottom: 0;
+}

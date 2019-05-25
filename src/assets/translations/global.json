@@ -1,0 +1,22 @@
+{
+  "menu.main": [
+    "главная",
+    "main"
+  ],
+  "menu.offers": [
+    "офферы",
+    "offers"
+  ],
+  "menu.support": [
+    "поддержка",
+    "support"
+  ],
+  "menu.profile": [
+    "профиль",
+    "profile"
+  ],
+  "menu.news": [
+    "новости",
+    "news"
+  ]
+}
